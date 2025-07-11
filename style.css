@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Estilo global para todos os elementos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+header, .jumbotron{
+    background-color: #000 !important;
+    color: #fff;
+    text-align: center;
+}
+body{
+    background-color: gray !important;
+}
+.containerr{
+    justify-content: center;
+    display: flex
+
+}
+.input-grup {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 8px 16px 8px 8px;
+    width: 300px;
+    max-height: 60vh;
+    border-radius: 25px;
+    gap: 8px;
+}
+.input-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 32px;
+    max-height: 32px;
+    color: #000;
+    border-radius: 100%;
+}
+
+.input-field{
+    width: 100%;
+    border: none;
+    background-color: transparent;
+}
+.input-field:focus{
+    outline:none;
+}
+main {
+    display: flex !important; 
+    justify-content: center;
+    width: 100%;
+}
+
+.item{
+    width: 80%;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 30px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: justify;
+}
+
