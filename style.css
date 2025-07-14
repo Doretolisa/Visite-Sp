@@ -20,6 +20,9 @@ body{
     display: flex
 
 }
+a{
+    color: #1b1b1b !important;
+}
 .input-grup {
     display: flex;
     align-items: center;
@@ -55,7 +58,7 @@ main {
 }
 
 .item{
-    width: 80%;
+    width: 800px;
     border: 2px solid black;
     padding: 20px;
     border-radius: 30px;
