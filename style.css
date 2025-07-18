@@ -66,6 +66,8 @@ main {
     gap: 15px;
 }
 .item{
+    background-color: #5f5f5f;
+    color: #c5c3c3;
     width: 100%;
     border: 2px solid black;
     padding: 20px;
