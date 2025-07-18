@@ -56,7 +56,7 @@ main {
     justify-content: center;
     width: 100%;
 }
-.itens{
+.items{
     display: flex;
     flex-direction: column;
     margin-top: 12px;
@@ -72,5 +72,10 @@ main {
     border-radius: 30px;
     align-items: center;
     text-align: justify;
+}
+
+#no_results {
+    display: none;
+    text-align: center;
 }
 
