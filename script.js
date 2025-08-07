@@ -28,3 +28,11 @@ function formatString(value) {
         .toLowerCase()
         .trim();
 }
+function viewSearch() {
+    const inputGroup = document.getElementById("input-grup");
+
+    if (window.innerWidth <= 800) {
+        const isHidden = window.getComputedStyle(inputGroup).display === 'none';
+        inputGroup.style.display = isHidden ? 'flex' : 'none';
+    }
+}
