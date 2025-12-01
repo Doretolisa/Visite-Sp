@@ -3,7 +3,7 @@
 O **Visite SP** é um site desenvolvido para apresentar e divulgar os principais pontos turísticos da cidade de **São Paulo (SP)**.  
 O objetivo é oferecer aos visitantes — tanto moradores quanto turistas — uma maneira simples, visual e informativa de conhecer locais icônicos, históricos e culturais da maior cidade do Brasil.
 
-🔗 **Acesse o site:**https://visitesp.vercel.app/**
+🔗 **Acesse o site:** https://visitesp.vercel.app/
 
 ---
 
@@ -22,22 +22,6 @@ A proposta do projeto é facilitar a busca por lugares interessantes para visita
 O site funciona como um catálogo digital, onde qualquer pessoa — seja morador da cidade ou turista — pode pesquisar locais famosos, históricos, culturais e de lazer. A navegação simples e visual torna a experiência agradável, ajudando o usuário a descobrir novos espaços e planejar passeios pela cidade de São Paulo.
 
 Além disso, o projeto foi pensado para ser leve, responsivo e de fácil acesso, permitindo que todos encontrem informações de forma prática, sem a necessidade de downloads ou cadastros.
-
-
----
-
-## 📥 Instalação
-
-```bash
-# Clone este repositório
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-
-# Acesse a pasta do projeto
-cd SEU-REPOSITORIO
-
-# Abra o arquivo principal
-start index.html
-```
 
 ---
 
