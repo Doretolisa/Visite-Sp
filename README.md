@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Portal%20Etec&text2=Lauro%20Gomes" width="100%" />
-</p>
-
 # 📘 Visite SP
 
 O **Visite SP** é um site desenvolvido para apresentar e divulgar os principais pontos turísticos da cidade de **São Paulo (SP)**.  
